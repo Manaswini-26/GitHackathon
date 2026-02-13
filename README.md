@@ -56,6 +56,7 @@ Our "Portfolio Score" is calculated using five key engineering pillars:
 
 🎥 Demo Video
 https://www.loom.com/share/bd4ded264f9847f5adf8571b86926014
+🚀 Live Demo: https://githackathon-3qnhbyxqjfw57gitdtk3c3.streamlit.app/
 Mandatory for hackathon evaluation!
 
 💡 Future Roadmap
@@ -67,3 +68,4 @@ Mandatory for hackathon evaluation!
 
 
 Created with ❤️ for the UnsaidTalks Hackathon.
+

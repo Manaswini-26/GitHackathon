@@ -28,7 +28,7 @@ Deployment: Streamlit Community Cloud
 Clone the repository
 
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Manaswini-26/GitHackathon.git
 cd YOUR_REPO_NAME
 Install dependencies
 
@@ -64,5 +64,6 @@ Mandatory for hackathon evaluation!
 [ ] Integration with LinkedIn for a 360-degree career view.
 
 [ ] Automatic README generation for "empty" repositories.
+
 
 Created with ❤️ for the UnsaidTalks Hackathon.
